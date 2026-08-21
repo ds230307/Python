@@ -1,0 +1,3 @@
+str = "harry"
+capitalized = str.capitalize()
+print(capitalized)   # Output: Harry
