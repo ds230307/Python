@@ -1,0 +1,3 @@
+str = "digvijay"
+count = str.count("i")
+print(count)  // output:2
