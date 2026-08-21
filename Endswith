@@ -1,0 +1,2 @@
+str = "harry"
+print(str.endswith("rry"))  // True
