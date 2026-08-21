@@ -1,3 +1,7 @@
 endswith() : check if char ends with given text
 count() : tells total occuring of a character
 len() : returns length of a string
+\t : inserts space
+\n: new line
+\' : inserts single quote inside a string
+\\ : to insert a backslash
