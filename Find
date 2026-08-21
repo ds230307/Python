@@ -1,0 +1,3 @@
+str = "digvijay"
+index = str.find("v")
+print(index)  # ouput:3
