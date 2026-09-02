@@ -18,3 +18,11 @@ print(type(a)) #For Finding Type
 print(len(a)) #Length Find
 print(min(x,y))
 print(max(x,y))
+
+#Wap to perform operations on String...
+a=str("Welcome to Python World")
+print(a.count("o"))
+print(len(a))
+print(a[0:7])
+print(a.isalnum())
+print(type(a))
