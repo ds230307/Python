@@ -1,13 +1,20 @@
- #WAP to apply some more Function...
+#WAP to apply some more Function...
 a=input("Enter String: ")
 x=int(input("Enter 1st Number: "))
 y=int(input("Enter 2nd Number: "))
+n=int(input("Enter new no: "))
+c=n/2
+print(c)
+print(round(c)) #Round of Value
+print(abs(c)) #Absolute Value
 print(a.isalpha()) #Alphabet checking
 print(a.isdigit()) #Digits Checking
 print(a.islower()) #Character Lower
 print(a.isupper()) #Character Upper
 print(a.lower()) #Lower
 print(a.upper()) #Upper
-print(a.strip()) #For Removing Space
+print("Hello World".strip()) #For Removing Space
 print(type(a)) #For Finding Type
 print(len(a)) #Length Find
+print(min(x,y))
+print(max(x,y))
